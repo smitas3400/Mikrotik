@@ -1,0 +1,2 @@
+# Mikrotik
+zabbix temp
